@@ -19,4 +19,4 @@ the software delivers a
 and user banking experience
 for both clients and administrators alike.
 
-The program focuses on functional programming principles. Its **latest update was on June 26, 2023.**
+The program focuses on functional programming principles. **Its latest update was on June 26, 2023.**
